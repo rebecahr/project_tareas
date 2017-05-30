@@ -2,6 +2,10 @@
     "name": "project_tareas",
     "license": "proprietary",
     "type": "project",
+    "authors": {
+            "name": "Rebeca Huerta",
+            "email": "rebeca@ctaa.net"            
+    },
     "autoload": {
         "psr-4": {
             "": "src/"
